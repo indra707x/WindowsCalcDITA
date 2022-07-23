@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="addition_operation_using_windows_calculator">
+    <title>Addition Operation Using Windows Calculator</title>
+    <shortdesc>This topic describes how to add two numbers using the Windows Calculator (Standard
+        mode).</shortdesc>
+    <taskbody>
+        <prereq id="prereq_m3h_5cf_h5b">There are two prerequisites for this task. Firstly, you
+            should be aware of the basic arithmetic function of Addition. Secondly, you should be
+            familiar with how to access the Windows Calculator and open it in the Standard mode. For
+            more information, refer to the topic— "<xref href="accessing_windows_calculator.dita"
+                >Accessing Windows Calculator</xref>".</prereq>
+        <steps>
+            <stepsection>Proceed as follows:</stepsection>
+            <step>
+                <cmd>Open the Windows Calculator in the Standard mode. It should display the number
+                    zero (0) in the display section, as shown in the following <xref
+                        href="#addition_operation_using_windows_calculator/fig_jsc_kff_h5b"
+                        format="dita">figure</xref>. </cmd>
+                <info>
+                    <fig id="fig_jsc_kff_h5b">
+                        <title>The Windows Calculator (Standard Mode)</title>
+                        <image placement="break" href="Images/Calc11.png" scale="70" align="left"
+                            id="image_ksc_kff_h5b"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Enter the first number. You may either enter the number using your keyboard or
+                    use your mouse to click on the appropriate numeric button(s) on the Calculator.
+                    The number shows up in the display area, as shown in the following <xref
+                        href="#addition_operation_using_windows_calculator/fig_dd3_khf_h5b"
+                        format="dita">figure</xref>. (In our example case, let the first number be
+                    5.)</cmd>
+                <info>
+                    <fig id="fig_dd3_khf_h5b">
+                        <title>Addition Using Windows Calculator— First Number Entry</title>
+                        <image placement="break" href="Images/Calc12.png" scale="70" align="left"
+                            id="image_ed3_khf_h5b"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Click on the <b>Plus (+) </b>button in the Calculator as highlighted in the
+                        <xref href="#addition_operation_using_windows_calculator/fig_njf_bvf_h5b"
+                        format="dita">figure</xref> below. Alternatively, you may press the Plus (+)
+                    button on the numeric key pad of your keyboard. </cmd>
+                <info>
+                    <fig id="fig_njf_bvf_h5b">
+                        <title>Addition Using Windows Calculator— Clicking on the Plus
+                            Button</title>
+                        <image placement="break" href="Images/Calc13.png" scale="70" align="left"
+                            id="image_ojf_bvf_h5b"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Now, enter the second number. This is similar to adding the first number. The
+                        <xref href="#addition_operation_using_windows_calculator/fig_qhk_3wf_h5b"
+                        format="dita">figure</xref> below highlights the second number. (In our
+                    example case, let it be 12.)</cmd>
+                <info>
+                    <fig id="fig_qhk_3wf_h5b">
+                        <title>Addition Using Windows Calculator— Second Number Entry</title>
+                        <image placement="break" href="Images/Calc14.png" scale="70" align="left"
+                            id="image_rhk_3wf_h5b"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Next, click the <b>Equal To</b> (=) button on the Calculator. This is
+                    highlighted in the <xref
+                        href="#addition_operation_using_windows_calculator/fig_fpn_3xf_h5b"
+                        format="dita">figure</xref> below. Alternatively, you may also press the
+                    Equal To (=) button on the numeric keypad of your keyboard. </cmd>
+                <info>
+                    <fig id="fig_fpn_3xf_h5b">
+                        <title>Addition Using Windows Calculator— Clicking on the 'Equal To'
+                            Button</title>
+                        <image placement="break" href="Images/Calc15.png" scale="70" align="left"
+                            id="image_gpn_3xf_h5b"/>
+                    </fig>
+                </info>
+                <stepresult>The sum of the two numbers now appears in the display area, as shown in
+                    the figure below. (In our example case, the sum is— (5 + 12) = 17.)<fig
+                        id="fig_atq_wxf_h5b">
+                        <title>Addition Using Windows Calculator— Arriving at the Sum</title>
+                        <image placement="break" href="Images/Calc16.png" scale="70" align="left"
+                            id="image_btq_wxf_h5b"/>
+                    </fig></stepresult>
+            </step>
+            <step>
+                <cmd>Once you are done with the Addition operation, you may close the Calculator by
+                    clicking the <b>Close</b> icon (<image placement="inline"
+                        href="Images/Calc_close%20icon.png" scale="70" id="image_vp1_tyf_h5b"/>) in
+                    the top right corner of the Calculator app. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

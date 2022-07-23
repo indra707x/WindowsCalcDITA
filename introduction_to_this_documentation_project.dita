@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="introduction_to_this_documentation_project">
+    <title>Introduction to This Documentation Project</title>
+    <shortdesc>This topic gives a brief overview on this demo documentation project. </shortdesc>
+    <prolog>
+        <author>Indranil Sen</author>
+        <copyright>
+            <copyryear year="2022"/>
+            <copyrholder>Indranil Sen</copyrholder>
+        </copyright>
+    </prolog>
+    <conbody>
+        <p>This a sample documentation project that demonstrates my fundamental <b>DITA XML</b>
+            authoring skills. In the process, the project also demonstrates my basic proficiency in
+            using <b>Oxygen XML Author</b>, the industry leading tool used in DITA XML authoring.  </p>
+        <p>The project title is— <b>"Basic Arithmetic Using Windows Calculator". </b>It describes
+            how to conduct the following basic arithmetic operations using Windows' Calculator
+                app—<ul id="ul_rwz_dlp_f5b">
+                <li>Addition</li>
+                <li>Subtraction</li>
+                <li>Multiplication</li>
+                <li>Division</li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

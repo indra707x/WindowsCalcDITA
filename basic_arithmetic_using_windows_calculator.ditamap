@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Basic Arithmetic Using Windows Calculator</title>
+    <topichead navtitle="Introduction">
+        <topicref href="introduction_to_this_documentation_project.dita"/>
+        <topicref href="accessing_windows_calculator.dita"/>
+    </topichead>
+    <topichead navtitle="Addition">
+        <topicref href="addition_operation_using_windows_calculator.dita"/>
+    </topichead>
+    <topichead navtitle="Subtraction"/>
+    <topichead navtitle="Multiplication"/>
+    <topichead navtitle="Division"/>
+</map>

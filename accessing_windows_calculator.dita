@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="accessing_windows_calculator">
+    <title>Accessing Windows Calculator</title>
+    <shortdesc>This topic describes how to access the Windows Calculator. </shortdesc>
+    <conbody>
+        <p>There are two (2) ways of accessing the Windows Calculator. Both approaches are described
+            below.</p>
+        <section id="section_fhz_smw_f5b">
+            <title>Accessing Windows Calculator— Method 1</title>
+            <p>This section outlines the first method of accessing the Windows Calculator. </p>
+            <note id="note_av4_bnw_f5b">In this context, we are considering <b>Windows 10</b>. </note>
+            <p>Proceed as follows:</p>
+            <ol id="ol_kmr_mnw_f5b">
+                <li>Click on the <b>Start</b> button in the bottom-left corner of your
+                    desktop/laptop screen (refer to the <xref
+                        href="#accessing_windows_calculator/fig_os3_k4w_f5b" format="dita"
+                        >figure</xref> below). <fig id="fig_os3_k4w_f5b">
+                        <title>Clicking Windows Start Button</title>
+                        <image placement="break" href="Images/Calc1.png" align="left"
+                            id="image_WinStart"/>
+                    </fig><p>The list of programs currently installed in your machine shows up.
+                        Scroll through the list and locate the Calculator program. This is shown in
+                        the <xref href="#accessing_windows_calculator/fig_of3_lqw_f5b" format="dita"
+                            >figure</xref> below. </p><fig id="fig_of3_lqw_f5b">
+                        <title>Locating Calculator in the List of Programs</title>
+                        <image placement="break" href="Images/Calc2.png" align="left"
+                            id="image_pf3_lqw_f5b"/>
+                    </fig></li>
+                <li>Click <b>Calculator</b> (<image placement="inline" href="Images/Calc3_icon.png"
+                        scale="70" id="image_evw_w5d_g5b"/>).<p>The Calculator app opens up, as
+                        shown in the <xref href="#accessing_windows_calculator/fig_qt5_nvd_g5b"
+                            format="dita">figure</xref> below.</p><fig id="fig_qt5_nvd_g5b">
+                        <title>The Windows Calculator App (Standard Mode)</title>
+                        <image placement="break" href="Images/Calc4.png" scale="70" align="left"
+                            id="image_rt5_nvd_g5b"/>
+                    </fig></li>
+            </ol>
+            <p>Now you can use the Calculator app to conduct arithmetic operations. </p>
+        </section>
+        <section id="section_hwf_2wd_g5b">
+            <title>Accessing Windows Calculator— Method 2</title>
+            <p>This section outlines the second method of accessing the Windows Calculator. </p>
+            <p>Proceed as follows:</p>
+            <ol id="ol_f2l_3wd_g5b">
+                <li>Locate the Windows Search box at the bottom of your desktop/laptop screen. This
+                    is to the right of the Windows Start button. Refer to the <xref
+                        href="#accessing_windows_calculator/fig_jty_twd_g5b" format="dita"
+                        >figure</xref> below.<fig id="fig_jty_twd_g5b">
+                        <title>Windows Search Box</title>
+                        <image placement="break" href="Images/Calc5.png" align="left"
+                            id="image_kty_twd_g5b"/>
+                    </fig></li>
+                <li>Enter the search string 'Calculator' in the Windows Search box. Once you enter
+                    that, Windows automatically finds the Calculator app for you as a <i>Best
+                        Match</i>. This is illustrated in the<xref
+                        href="#accessing_windows_calculator/fig_qrv_t2s_g5b" format="dita">
+                        figure</xref> below.<fig id="fig_qrv_t2s_g5b">
+                        <title>Finding Calculator App as a Best Match</title>
+                        <image placement="break" href="Images/Calc6.png" scale="70" align="left"
+                            id="image_rrv_t2s_g5b"/>
+                    </fig></li>
+                <li>Click the <b>Calculator</b> app item in the Best Match list. Alternatively,
+                    click <b>Open</b> on the right as illustrated in the following <xref
+                        href="#accessing_windows_calculator/fig_ejd_bgs_g5b" format="dita"
+                        >figure</xref>. <fig id="fig_ejd_bgs_g5b">
+                        <title>Opening the Calculator App</title>
+                        <image placement="break" href="Images/Calc7.png" scale="80" align="left"
+                            id="image_fjd_bgs_g5b"/>
+                    </fig><p>This will open the Calculator app.</p></li>
+            </ol>
+        </section>
+        <section id="section_ogy_fgs_g5b">
+            <title>The Two Calculator Modes— Standard and Scientific</title>
+            <p>There are two modes of the Windows Calculator app that are commonly used—
+                    <i>Standard</i> and <i>Scientific</i>. The Standard mode is suitable for basic
+                arithmetic operations, while the Scientific mode is suitable for advanced
+                mathematical operations like Trigonometric and Logarithmic operations. </p>
+            <p>The following <xref href="#accessing_windows_calculator/fig_pws_43s_g5b"
+                    format="dita">figure</xref> displays both these modes side by side. </p>
+            <fig id="fig_pws_43s_g5b">
+                <title>Windows Calculator Modes— Standard and Scientific</title>
+                <image placement="break" href="Images/Calc8.png" scale="70" align="left"
+                    id="image_qws_43s_g5b"/>
+            </fig>
+            <note id="note_ytq_r3s_g5b">For the current project, we will be using the Standard mode
+                of the Calculator app. </note>
+            <p>If by chance, you land up in the Scientific mode, you can easily switch back to the
+                Standard mode. Locate the Navigation icon, as shown in the following <xref
+                    href="#accessing_windows_calculator/fig_jlh_xjs_g5b" format="dita"
+                >figure</xref>. <fig id="fig_jlh_xjs_g5b">
+                    <title>Calculator App— Locating the Navigation Icon</title>
+                    <image placement="break" href="Images/Calc9.png" scale="70" align="left"
+                        id="image_klh_xjs_g5b"/>
+                </fig></p>
+            <p>Click the Navigation icon to expand the list of menu items. Next, click the
+                    <b>Standard</b> menu item on the expanded list, as shown in the following <xref
+                    href="#accessing_windows_calculator/fig_tdw_cls_g5b" format="dita"
+                >figure</xref>. This will open up the Calculator in Standard mode. <fig
+                    id="fig_tdw_cls_g5b">
+                    <title>Calculator App— Clicking the Standard Navigation Option</title>
+                    <image placement="break" href="Images/Calc10.png" scale="70" align="left"
+                        id="image_udw_cls_g5b"/>
+                </fig></p>
+        </section>
+    </conbody>
+</concept>
